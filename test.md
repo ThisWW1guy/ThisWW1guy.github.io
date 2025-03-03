@@ -61,4 +61,6 @@ Biczownicy, po łac. flagellantes, flagellatores, flagellarii, od wyrazu łac.fl
 [Link](https://pl.wikisource.org/wiki/Encyklopedia_staropolska/Biczownicy)
 >
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/HOPhsS_s_Ls/0.jpg)](http://www.youtube.com/watch?v=HOPhsS_s_Ls)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=HOPhsS_s_Ls
+" target="_blank"><img src="http://img.youtube.com/vi/HOPhsS_s_Ls/0.jpg"
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
