@@ -1,3 +1,7 @@
+---
+title: "Strona Główna"
+---
+
 ## qwerty
 
 # Homepage
