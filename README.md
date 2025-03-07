@@ -1,6 +1,3 @@
----
-title: "Strona Glowna"
----
 
 ## qwerty
 
