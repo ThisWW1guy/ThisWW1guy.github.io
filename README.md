@@ -1,7 +1,3 @@
----
-name: namename
----
-
 pppp
 
 ## qwerty
