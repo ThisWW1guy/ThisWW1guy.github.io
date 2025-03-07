@@ -1,5 +1,5 @@
 ---
-title: "Strona Główna"
+title: "Strona Glowna"
 ---
 
 ## qwerty
